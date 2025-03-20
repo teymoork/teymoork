@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @teymoork
-- 👀 I’m interested in embeded c++
-- 🌱 I’m currently learning vscode
+- 👋 Hi, I’m Teymoor
+- 👀 I’m interested in embeded digital systems
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : teymoor.k@gmail.com
 
